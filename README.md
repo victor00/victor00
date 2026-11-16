@@ -31,7 +31,10 @@ Tools and languages I've used across projects and studies:
 | Backend & languages | Ruby, Ruby on Rails, Java, Python, Go |
 | Web | TypeScript, JavaScript, Angular, HTML, CSS |
 | Databases | PostgreSQL, MySQL, SQLite |
-| Development | Git, GitHub, Docker |
+| Cloud & data | Google Cloud, BigQuery, Cloud SQL |
+| Messaging | Google Cloud Pub/Sub |
+| Containers & orchestration | Docker, Kubernetes |
+| Development | Git, GitHub |
 
 ## Selected projects
 
