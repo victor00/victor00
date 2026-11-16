@@ -1,54 +1,56 @@
-<div align="center">
-
 # Victor Morelli
 
-**Backend Software Engineer · Distributed Systems · Event-Driven Architecture**
+**Backend Software Engineer · Distributed Systems · Google Cloud**
 
-São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/) · [Projects](https://github.com/victor00?tab=repositories)
+São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/) · [Browse projects](https://github.com/victor00?tab=repositories)
 
-</div>
+I build backend systems, with a focus on distributed systems and event-driven architecture. My work includes implementing Temporal to address workflows that could not reliably survive failures, and working with patterns such as the transactional outbox.
 
----
+I care about what happens beyond the happy path: how services recover, how data stays consistent, and how a workflow continues when part of the system fails.
 
-I'm a software engineer focused on backend development, distributed systems, and event-driven applications. I care about building services that are reliable, easy to understand, and practical to maintain.
+## Engineering focus
 
-I enjoy understanding how the pieces of a system work together: how services communicate, how data moves between them, and what happens when something fails. My interests include asynchronous messaging, consistency, and the trade-offs behind designing systems that can grow.
+- **Durable workflows:** implementing Temporal to make workflow execution resilient to interruptions and failures.
+- **Reliable messaging:** working with the outbox pattern to address consistency between database changes and event publishing.
+- **Distributed systems:** handling partial failures and the trade-offs involved in coordinating work across services.
 
-## What you'll find here
-
-This GitHub is a collection of personal projects, experiments, and coursework. It reflects my interest in backend engineering, web applications, and learning by building.
-
-- **Backend & distributed systems:** service communication, publish/subscribe patterns, and event-driven design.
-- **Search & data:** exploring how indexing and ranking turn raw data into useful results.
-- **Web development:** building applications from the database through to the interface.
-
-## Technologies
-
-Tools and languages I've used across projects and studies:
+## Technology stack
 
 | Area | Technologies |
 | :--- | :--- |
+| Cloud platform | Google Cloud |
+| Workflows & messaging | Temporal, Google Cloud Pub/Sub |
+| Cloud data services | BigQuery, Cloud SQL, Dataflow |
+| Containers & orchestration | Kubernetes, Docker |
 | Backend & languages | Ruby, Ruby on Rails, Java, Python, Go |
-| Web | TypeScript, JavaScript, Angular, HTML, CSS |
 | Databases | PostgreSQL, MySQL, SQLite |
-| Cloud & data | Google Cloud, BigQuery, Cloud SQL, Dataflow |
-| Messaging | Google Cloud Pub/Sub |
-| Containers & orchestration | Docker, Kubernetes |
-| Development | Git, GitHub |
+| Web | TypeScript, JavaScript, Angular |
+| Version control | Git, GitHub |
 
-## Selected projects
+The languages and frameworks above span my work, personal projects, and studies.
 
-### [Cosmonaut](https://github.com/victor00/cosmonaut)
-A space travel marketplace built with Ruby on Rails and PostgreSQL, with user accounts, trip listings, and tickets.
+## Selected public projects
 
-### [MovieVerse](https://github.com/victor00/movie-verse)
-An Angular and TypeScript coursework project for organizing movies, tracking watched titles, and saving favorites, with TMDB integration.
+These personal and coursework projects offer a look at my code and interests. My professional focus is described above.
 
-### [Search engine experiments](https://github.com/victor00/rag-search-engine)
-A Python learning project exploring movie search through inverted indexes, text processing, TF-IDF, and BM25 ranking.
+**[Search engine experiments](https://github.com/victor00/rag-search-engine)** · Python  
+Movie search with inverted indexes, text processing, TF-IDF, and BM25 ranking. A learning project exploring how search results are indexed and scored.
 
-I'm also studying messaging patterns through the [Boot.dev pub/sub course project](https://github.com/victor00/learn-pub-sub-starter) in Go.
+**[Cosmonaut](https://github.com/victor00/cosmonaut)** · Ruby on Rails · PostgreSQL  
+A space travel marketplace with user accounts, trip listings, and tickets. Covers data modeling and application flows in a Rails web app.
 
----
+**[MovieVerse](https://github.com/victor00/movie-verse)** · Angular · TypeScript  
+A coursework project for organizing movies, tracking watched titles, and saving favorites, with TMDB integration.
 
-Outside of my day-to-day work, I enjoy building games as a hobby, reading, and listening to music. Game development gives me a space to experiment, be creative, and turn ideas into something people can play. If you'd like to talk about backend engineering, distributed systems, or something you're building, [let's connect on LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/).
+<details>
+<summary>Further learning</summary>
+
+I'm also exploring messaging patterns in Go through the [Boot.dev pub/sub course project](https://github.com/victor00/learn-pub-sub-starter).
+
+</details>
+
+## Beyond work
+
+I build games as a hobby and enjoy reading and music. Game development gives me room to experiment and turn ideas into something people can play.
+
+**Interested in my experience or discussing a role? [Connect with me on LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/).**
