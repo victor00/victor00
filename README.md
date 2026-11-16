@@ -8,6 +8,8 @@ I build backend systems, with a focus on distributed systems and event-driven ar
 
 I care about what happens beyond the happy path: how services recover, how data stays consistent, and how a workflow continues when part of the system fails.
 
+In my personal projects, I also explore applied AI: building coding agents that connect language models to tools and use their results to carry out tasks.
+
 ## Engineering focus
 
 - **Durable workflows:** implementing Temporal to make workflow execution resilient to interruptions and failures.
@@ -25,6 +27,7 @@ I care about what happens beyond the happy path: how services recover, how data 
 | Backend & languages | Ruby, Ruby on Rails, Java, Python, Go |
 | Databases | PostgreSQL, MySQL, SQLite |
 | Web | TypeScript, JavaScript, Angular |
+| AI projects | Gemini API, Google Gen AI SDK, LLM tool use / function calling |
 | Version control | Git, GitHub |
 
 The languages and frameworks above span my work, personal projects, and studies.
@@ -33,8 +36,8 @@ The languages and frameworks above span my work, personal projects, and studies.
 
 These personal and coursework projects offer a look at my code and interests. My professional focus is described above.
 
-**[Search engine experiments](https://github.com/victor00/rag-search-engine)** · Python  
-Movie search with inverted indexes, text processing, TF-IDF, and BM25 ranking. A learning project exploring how search results are indexed and scored.
+**[AgentIA](https://github.com/victor00/AgentIA)** · Python · Gemini API  
+An experimental AI coding agent that uses function calling to inspect files, edit code, and run Python programs. Connects an LLM to executable tools in a multi-step loop, exploring how agents use tool results to decide what to do next.
 
 **[Cosmonaut](https://github.com/victor00/cosmonaut)** · Ruby on Rails · PostgreSQL  
 A space travel marketplace with user accounts, trip listings, and tickets. Covers data modeling and application flows in a Rails web app.
