@@ -48,4 +48,4 @@ I'm also studying messaging patterns through the [Boot.dev pub/sub course projec
 
 ---
 
-Outside of coding, I enjoy books and music. If you'd like to talk about backend engineering, distributed systems, or something you're building, [let's connect on LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/).
+Outside of my day-to-day work, I enjoy building games as a hobby, reading, and listening to music. Game development gives me a space to experiment, be creative, and turn ideas into something people can play. If you'd like to talk about backend engineering, distributed systems, or something you're building, [let's connect on LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/).
