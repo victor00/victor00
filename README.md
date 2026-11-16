@@ -1,107 +1,51 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-	<h2 align="center"> Hi there! 👋 </h2>
-	<h4 align="center"> I'm Victor Morelli, a passionate software engineer. </h4>
+<div align="center">
 
+# Victor Morelli
 
+**Backend Software Engineer · Distributed Systems · Event-Driven Architecture**
 
-<br>
-	
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/) · [Projects](https://github.com/victor00?tab=repositories)
 
-<ul>
-	<li>🌱 Passionate about learning new things and staying up-to-date with the latest technologies and industry trends</li>
-	<li>✍️ Love to write clean, scalable, and maintainable code, and a big fan of open source development</li>
-	<li><strong>Hobbies :</strong> Books 📚 | Music 🎧</li>
-	<li>
-	   <strong>My favorite quote that drives my life is:</strong>
-	  <blockquote>
-	    <p>"We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein</p>
-	  </blockquote>
-	</li>
-</ul>
+</div>
 
-<hr>
+---
 
+I'm a software engineer focused on backend development, distributed systems, and event-driven applications. I care about building services that are reliable, easy to understand, and practical to maintain.
 
-<h3>🤝 Connect with Me</h3>
-<br>
-  
-<p>
-<a href="https://github.com/victor00" style="display:inline-block;width:30px;height:30px;">
-  <img align="left" alt="victor00github" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />
-</a>
-	
-<a href="https://www.linkedin.com/in/avictor-ribeiro-morelli/" style="display:inline-block;width:30px;height:30px;">
-  <img align="left" alt="victorlinkedin" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
+I enjoy understanding how the pieces of a system work together: how services communicate, how data moves between them, and what happens when something fails. My interests include asynchronous messaging, consistency, and the trade-offs behind designing systems that can grow.
 
-</p>
+## What you'll find here
 
-<br>
-<br>
-Thanks for stopping by!
-<p align="left"> 
-	<a href="https://github.com/victor00">
-		<img src="https://komarev.com/ghpvc/?username=victor00" alt="page views" />
-	</a> 
-</p>
-<hr>
+This GitHub is a collection of personal projects, experiments, and coursework. It reflects my interest in backend engineering, web applications, and learning by building.
 
-<h2 align="left">Technologies & Tools</h2>
+- **Backend & distributed systems:** service communication, publish/subscribe patterns, and event-driven design.
+- **Search & data:** exploring how indexing and ranking turn raw data into useful results.
+- **Web development:** building applications from the database through to the interface.
 
-### Frontend
+## Technologies
 
-<code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</code> &nbsp;&nbsp;
-<code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code> &nbsp;&nbsp;
-<code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code> &nbsp;&nbsp;
+Tools and languages I've used across projects and studies:
 
-### Frameworks
+| Area | Technologies |
+| :--- | :--- |
+| Backend & languages | Ruby, Ruby on Rails, Java, Python, Go |
+| Web | TypeScript, JavaScript, Angular, HTML, CSS |
+| Databases | PostgreSQL, MySQL, SQLite |
+| Development | Git, GitHub, Docker |
 
-<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code> &nbsp;&nbsp;
-<code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
-<code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
-<code>![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
-<code>![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=tensorflow&logoColor=orange)</code> &nbsp;&nbsp;
+## Selected projects
 
-# Languages
+### [Cosmonaut](https://github.com/victor00/cosmonaut)
+A space travel marketplace built with Ruby on Rails and PostgreSQL, with user accounts, trip listings, and tickets.
 
-<code>![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
-<code>![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python)</code> &nbsp;&nbsp;
-<code>![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=ruby&logoColor=red)</code> &nbsp;&nbsp;
-<code>![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)</code> &nbsp;&nbsp;
+### [MovieVerse](https://github.com/victor00/movie-verse)
+An Angular and TypeScript coursework project for organizing movies, tracking watched titles, and saving favorites, with TMDB integration.
 
-### Database
+### [Search engine experiments](https://github.com/victor00/rag-search-engine)
+A Python learning project exploring movie search through inverted indexes, text processing, TF-IDF, and BM25 ranking.
 
-<code>![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)</code> &nbsp;&nbsp;
-<code>![JSON](https://img.shields.io/badge/-JSON-white?style=flat-square&logo=json&logoColor=black)</code> &nbsp;&nbsp;
-<code>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)</code> &nbsp;&nbsp;
-<code>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)</code> &nbsp;&nbsp;
+I'm also studying messaging patterns through the [Boot.dev pub/sub course project](https://github.com/victor00/learn-pub-sub-starter) in Go.
 
-### Deploy
+---
 
-<code>![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</code> &nbsp;&nbsp;
-<code>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</code> &nbsp;&nbsp;
-<code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
-
-### Editors
-<code>![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)</code> &nbsp;&nbsp;
-
-<hr>
-
-## &#x1f4c8; GitHub Stats
-<p>
-  <a href="https://github.com/victor00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor00&hide=html&layout=compact&langs_count=10" /> 
-  </a>
-  <br> <br>
-  <a href="https://github.com/victor00">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=victor00&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Victor's GitHub Stats" />
-  </a>
-</p>
-
-</body>
-</html>
+Outside of coding, I enjoy books and music. If you'd like to talk about backend engineering, distributed systems, or something you're building, [let's connect on LinkedIn](https://www.linkedin.com/in/avictor-ribeiro-morelli/).
